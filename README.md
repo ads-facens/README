@@ -1,1 +1,1 @@
-# README.github
+Esta organização foi criada para fins organizacionais, visando centralizar e armazenar todos os projetos desenvolvidos ao longo do curso de Análise e Desenvolvimento de Sistemas. Aqui você encontrará uma coleção de repositórios que abrangem diversas áreas de estudo e práticas realizadas durante a minha jornada acadêmica. Estes projetos refletem meu aprendizado e evolução no campo da tecnologia e desenvolvimento de software.
